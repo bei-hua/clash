@@ -1,1 +1,2 @@
-HOST-SUFFIX,iosapps.itunes.apple.com,AppStore
+HOST,iosapps-ssl.itunes.apple.com,AppStore
+HOST,iosapps.itunes.apple.com,AppStore
