@@ -1,2 +1,3 @@
-HOST,iosapps-ssl.itunes.apple.com,AppStore
-HOST,iosapps.itunes.apple.com,AppStore
+payload:
+  - DOMAIN-SUFFIX,osapps-ssl.itunes.apple.com
+  - DOMAIN-SUFFIX,iosapps.itunes.apple.com
