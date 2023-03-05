@@ -9,5 +9,3 @@ payload:
 - DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
 - DOMAIN-SUFFIX,amazonaws.com
 - DOMAIN-SUFFIX,audio.itunes.apple.com
-
-- DOMAIN-SUFFIX,xp.apple.com
