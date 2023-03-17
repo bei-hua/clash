@@ -1,0 +1,10 @@
+HOST-SUFFIX,blobstore.apple.com,AppleMusic
+HOST-SUFFIX,itsliveradio.apple.com,AppleMusic
+HOST-SUFFIX,aodp-ssl.apple.com,AppleMusic
+HOST-SUFFIX,video-ssl.itunes.apple.com,AppleMusic
+HOST-SUFFIX,mvod.itunes.apple.com,AppleMusic
+HOST-SUFFIX,hls-amt.itunes.apple.com,AppleMusic
+HOST-SUFFIX,audio-ssl.itunes.apple.com,AppleMusic
+HOST-SUFFIX,streamingaudio.itunes.apple.com,AppleMusic
+HOST-SUFFIX,amazonaws.com,AppleMusic
+HOST-SUFFIX,audio.itunes.apple.com,AppleMusic
