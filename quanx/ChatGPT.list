@@ -1,6 +1,6 @@
-HOST-SUFFIX,,openai.com
-HOST-SUFFIX,,chat.openai.com
-HOST-SUFFIX,,challenges.cloudflare.com
-HOST-SUFFIX,,auth0.openai.com
-HOST-SUFFIX,,platform.openai.com
-HOST-SUFFIX,,ai.com
+HOST-SUFFIX,openai.com,ChatGPT
+HOST-SUFFIX,chat.openai.com,ChatGPT
+HOST-SUFFIX,challenges.cloudflare.com,ChatGPT
+HOST-SUFFIX,auth0.openai.com,ChatGPT
+HOST-SUFFIX,platform.openai.com,ChatGPT
+HOST-SUFFIX,ai.com,ChatGPT
