@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,sentry.io,ChatGPT
