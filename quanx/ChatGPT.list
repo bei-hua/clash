@@ -4,3 +4,4 @@ HOST-SUFFIX,challenges.cloudflare.com,ChatGPT
 HOST-SUFFIX,auth0.openai.com,ChatGPT
 HOST-SUFFIX,platform.openai.com,ChatGPT
 HOST-SUFFIX,ai.com,ChatGPT
+HOST-SUFFIX,sentry.io,ChatGPT
